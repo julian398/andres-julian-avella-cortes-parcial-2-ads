@@ -6,11 +6,11 @@ el perímetro, área, volumen de cada uno de estos, esta aplicación se divide e
 
 -Lenguaje: Java
 -IDE: Visial studio code
--No requiere Ninguna indicación especial solo correr el main
+-Requiere descargar el JDK de java y extensión de visual studio o usar el IDE de preferencia que soporte java
 
 2)
     a.Factory method
-    escogí el factory method ya que sabia que iba a crear varias figuras que tenían elementos en común y
+    Escogí el factory method ya que sabia que iba a crear varias figuras que tenían elementos en común y
     métodos similares pero los tipos serian diferentes, además si en el futuro quiero añadir nuevas figuras
     es mucho mas fácil, por ende factory seria el mejor
     c.Todos los archivos dentro de la carpeta Shapes se extienden de shape y utilizan el mismo builder
